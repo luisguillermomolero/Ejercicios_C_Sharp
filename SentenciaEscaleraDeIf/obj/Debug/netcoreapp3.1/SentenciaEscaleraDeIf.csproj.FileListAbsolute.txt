@@ -1,0 +1,13 @@
+D:\C#\SentenciaEscaleraDeIf\bin\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.exe
+D:\C#\SentenciaEscaleraDeIf\bin\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.deps.json
+D:\C#\SentenciaEscaleraDeIf\bin\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.runtimeconfig.json
+D:\C#\SentenciaEscaleraDeIf\bin\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.runtimeconfig.dev.json
+D:\C#\SentenciaEscaleraDeIf\bin\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.dll
+D:\C#\SentenciaEscaleraDeIf\bin\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.pdb
+D:\C#\SentenciaEscaleraDeIf\obj\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.csprojAssemblyReference.cache
+D:\C#\SentenciaEscaleraDeIf\obj\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.csproj.CoreCompileInputs.cache
+D:\C#\SentenciaEscaleraDeIf\obj\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.AssemblyInfoInputs.cache
+D:\C#\SentenciaEscaleraDeIf\obj\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.AssemblyInfo.cs
+D:\C#\SentenciaEscaleraDeIf\obj\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.dll
+D:\C#\SentenciaEscaleraDeIf\obj\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.pdb
+D:\C#\SentenciaEscaleraDeIf\obj\Debug\netcoreapp3.1\SentenciaEscaleraDeIf.genruntimeconfig.cache

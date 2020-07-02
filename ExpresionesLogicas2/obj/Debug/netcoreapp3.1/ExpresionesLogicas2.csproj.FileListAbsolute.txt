@@ -1,0 +1,13 @@
+D:\C#\ExpresionesLogicas2\bin\Debug\netcoreapp3.1\ExpresionesLogicas2.exe
+D:\C#\ExpresionesLogicas2\bin\Debug\netcoreapp3.1\ExpresionesLogicas2.deps.json
+D:\C#\ExpresionesLogicas2\bin\Debug\netcoreapp3.1\ExpresionesLogicas2.runtimeconfig.json
+D:\C#\ExpresionesLogicas2\bin\Debug\netcoreapp3.1\ExpresionesLogicas2.runtimeconfig.dev.json
+D:\C#\ExpresionesLogicas2\bin\Debug\netcoreapp3.1\ExpresionesLogicas2.dll
+D:\C#\ExpresionesLogicas2\bin\Debug\netcoreapp3.1\ExpresionesLogicas2.pdb
+D:\C#\ExpresionesLogicas2\obj\Debug\netcoreapp3.1\ExpresionesLogicas2.csprojAssemblyReference.cache
+D:\C#\ExpresionesLogicas2\obj\Debug\netcoreapp3.1\ExpresionesLogicas2.csproj.CoreCompileInputs.cache
+D:\C#\ExpresionesLogicas2\obj\Debug\netcoreapp3.1\ExpresionesLogicas2.AssemblyInfoInputs.cache
+D:\C#\ExpresionesLogicas2\obj\Debug\netcoreapp3.1\ExpresionesLogicas2.AssemblyInfo.cs
+D:\C#\ExpresionesLogicas2\obj\Debug\netcoreapp3.1\ExpresionesLogicas2.dll
+D:\C#\ExpresionesLogicas2\obj\Debug\netcoreapp3.1\ExpresionesLogicas2.pdb
+D:\C#\ExpresionesLogicas2\obj\Debug\netcoreapp3.1\ExpresionesLogicas2.genruntimeconfig.cache

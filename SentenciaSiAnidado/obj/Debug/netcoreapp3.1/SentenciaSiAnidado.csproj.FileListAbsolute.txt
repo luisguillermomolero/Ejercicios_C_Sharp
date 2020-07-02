@@ -1,0 +1,13 @@
+D:\C#\SentenciaSiAnidado\bin\Debug\netcoreapp3.1\SentenciaSiAnidado.exe
+D:\C#\SentenciaSiAnidado\bin\Debug\netcoreapp3.1\SentenciaSiAnidado.deps.json
+D:\C#\SentenciaSiAnidado\bin\Debug\netcoreapp3.1\SentenciaSiAnidado.runtimeconfig.json
+D:\C#\SentenciaSiAnidado\bin\Debug\netcoreapp3.1\SentenciaSiAnidado.runtimeconfig.dev.json
+D:\C#\SentenciaSiAnidado\bin\Debug\netcoreapp3.1\SentenciaSiAnidado.dll
+D:\C#\SentenciaSiAnidado\bin\Debug\netcoreapp3.1\SentenciaSiAnidado.pdb
+D:\C#\SentenciaSiAnidado\obj\Debug\netcoreapp3.1\SentenciaSiAnidado.csprojAssemblyReference.cache
+D:\C#\SentenciaSiAnidado\obj\Debug\netcoreapp3.1\SentenciaSiAnidado.csproj.CoreCompileInputs.cache
+D:\C#\SentenciaSiAnidado\obj\Debug\netcoreapp3.1\SentenciaSiAnidado.AssemblyInfoInputs.cache
+D:\C#\SentenciaSiAnidado\obj\Debug\netcoreapp3.1\SentenciaSiAnidado.AssemblyInfo.cs
+D:\C#\SentenciaSiAnidado\obj\Debug\netcoreapp3.1\SentenciaSiAnidado.dll
+D:\C#\SentenciaSiAnidado\obj\Debug\netcoreapp3.1\SentenciaSiAnidado.pdb
+D:\C#\SentenciaSiAnidado\obj\Debug\netcoreapp3.1\SentenciaSiAnidado.genruntimeconfig.cache

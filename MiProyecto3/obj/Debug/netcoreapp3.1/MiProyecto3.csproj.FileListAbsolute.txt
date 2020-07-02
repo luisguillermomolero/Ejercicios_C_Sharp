@@ -1,0 +1,13 @@
+D:\C#\MiProyecto3\bin\Debug\netcoreapp3.1\MiProyecto3.exe
+D:\C#\MiProyecto3\bin\Debug\netcoreapp3.1\MiProyecto3.deps.json
+D:\C#\MiProyecto3\bin\Debug\netcoreapp3.1\MiProyecto3.runtimeconfig.json
+D:\C#\MiProyecto3\bin\Debug\netcoreapp3.1\MiProyecto3.runtimeconfig.dev.json
+D:\C#\MiProyecto3\bin\Debug\netcoreapp3.1\MiProyecto3.dll
+D:\C#\MiProyecto3\bin\Debug\netcoreapp3.1\MiProyecto3.pdb
+D:\C#\MiProyecto3\obj\Debug\netcoreapp3.1\MiProyecto3.csprojAssemblyReference.cache
+D:\C#\MiProyecto3\obj\Debug\netcoreapp3.1\MiProyecto3.csproj.CoreCompileInputs.cache
+D:\C#\MiProyecto3\obj\Debug\netcoreapp3.1\MiProyecto3.AssemblyInfoInputs.cache
+D:\C#\MiProyecto3\obj\Debug\netcoreapp3.1\MiProyecto3.AssemblyInfo.cs
+D:\C#\MiProyecto3\obj\Debug\netcoreapp3.1\MiProyecto3.dll
+D:\C#\MiProyecto3\obj\Debug\netcoreapp3.1\MiProyecto3.pdb
+D:\C#\MiProyecto3\obj\Debug\netcoreapp3.1\MiProyecto3.genruntimeconfig.cache

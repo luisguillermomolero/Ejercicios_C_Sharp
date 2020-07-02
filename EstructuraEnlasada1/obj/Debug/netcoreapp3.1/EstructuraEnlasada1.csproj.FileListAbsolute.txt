@@ -1,0 +1,13 @@
+D:\C#\EstructuraEnlasada1\bin\Debug\netcoreapp3.1\EstructuraEnlasada1.exe
+D:\C#\EstructuraEnlasada1\bin\Debug\netcoreapp3.1\EstructuraEnlasada1.deps.json
+D:\C#\EstructuraEnlasada1\bin\Debug\netcoreapp3.1\EstructuraEnlasada1.runtimeconfig.json
+D:\C#\EstructuraEnlasada1\bin\Debug\netcoreapp3.1\EstructuraEnlasada1.runtimeconfig.dev.json
+D:\C#\EstructuraEnlasada1\bin\Debug\netcoreapp3.1\EstructuraEnlasada1.dll
+D:\C#\EstructuraEnlasada1\bin\Debug\netcoreapp3.1\EstructuraEnlasada1.pdb
+D:\C#\EstructuraEnlasada1\obj\Debug\netcoreapp3.1\EstructuraEnlasada1.csprojAssemblyReference.cache
+D:\C#\EstructuraEnlasada1\obj\Debug\netcoreapp3.1\EstructuraEnlasada1.csproj.CoreCompileInputs.cache
+D:\C#\EstructuraEnlasada1\obj\Debug\netcoreapp3.1\EstructuraEnlasada1.AssemblyInfoInputs.cache
+D:\C#\EstructuraEnlasada1\obj\Debug\netcoreapp3.1\EstructuraEnlasada1.AssemblyInfo.cs
+D:\C#\EstructuraEnlasada1\obj\Debug\netcoreapp3.1\EstructuraEnlasada1.dll
+D:\C#\EstructuraEnlasada1\obj\Debug\netcoreapp3.1\EstructuraEnlasada1.pdb
+D:\C#\EstructuraEnlasada1\obj\Debug\netcoreapp3.1\EstructuraEnlasada1.genruntimeconfig.cache

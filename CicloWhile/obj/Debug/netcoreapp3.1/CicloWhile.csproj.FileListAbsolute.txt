@@ -1,0 +1,13 @@
+D:\C#\CicloWhile\bin\Debug\netcoreapp3.1\CicloWhile.exe
+D:\C#\CicloWhile\bin\Debug\netcoreapp3.1\CicloWhile.deps.json
+D:\C#\CicloWhile\bin\Debug\netcoreapp3.1\CicloWhile.runtimeconfig.json
+D:\C#\CicloWhile\bin\Debug\netcoreapp3.1\CicloWhile.runtimeconfig.dev.json
+D:\C#\CicloWhile\bin\Debug\netcoreapp3.1\CicloWhile.dll
+D:\C#\CicloWhile\bin\Debug\netcoreapp3.1\CicloWhile.pdb
+D:\C#\CicloWhile\obj\Debug\netcoreapp3.1\CicloWhile.csprojAssemblyReference.cache
+D:\C#\CicloWhile\obj\Debug\netcoreapp3.1\CicloWhile.csproj.CoreCompileInputs.cache
+D:\C#\CicloWhile\obj\Debug\netcoreapp3.1\CicloWhile.AssemblyInfoInputs.cache
+D:\C#\CicloWhile\obj\Debug\netcoreapp3.1\CicloWhile.AssemblyInfo.cs
+D:\C#\CicloWhile\obj\Debug\netcoreapp3.1\CicloWhile.dll
+D:\C#\CicloWhile\obj\Debug\netcoreapp3.1\CicloWhile.pdb
+D:\C#\CicloWhile\obj\Debug\netcoreapp3.1\CicloWhile.genruntimeconfig.cache

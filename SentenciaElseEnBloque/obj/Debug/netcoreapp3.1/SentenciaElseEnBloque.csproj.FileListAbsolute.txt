@@ -1,0 +1,13 @@
+D:\C#\SentenciaElseEnBloque\bin\Debug\netcoreapp3.1\SentenciaElseEnBloque.exe
+D:\C#\SentenciaElseEnBloque\bin\Debug\netcoreapp3.1\SentenciaElseEnBloque.deps.json
+D:\C#\SentenciaElseEnBloque\bin\Debug\netcoreapp3.1\SentenciaElseEnBloque.runtimeconfig.json
+D:\C#\SentenciaElseEnBloque\bin\Debug\netcoreapp3.1\SentenciaElseEnBloque.runtimeconfig.dev.json
+D:\C#\SentenciaElseEnBloque\bin\Debug\netcoreapp3.1\SentenciaElseEnBloque.dll
+D:\C#\SentenciaElseEnBloque\bin\Debug\netcoreapp3.1\SentenciaElseEnBloque.pdb
+D:\C#\SentenciaElseEnBloque\obj\Debug\netcoreapp3.1\SentenciaElseEnBloque.csprojAssemblyReference.cache
+D:\C#\SentenciaElseEnBloque\obj\Debug\netcoreapp3.1\SentenciaElseEnBloque.csproj.CoreCompileInputs.cache
+D:\C#\SentenciaElseEnBloque\obj\Debug\netcoreapp3.1\SentenciaElseEnBloque.AssemblyInfoInputs.cache
+D:\C#\SentenciaElseEnBloque\obj\Debug\netcoreapp3.1\SentenciaElseEnBloque.AssemblyInfo.cs
+D:\C#\SentenciaElseEnBloque\obj\Debug\netcoreapp3.1\SentenciaElseEnBloque.dll
+D:\C#\SentenciaElseEnBloque\obj\Debug\netcoreapp3.1\SentenciaElseEnBloque.pdb
+D:\C#\SentenciaElseEnBloque\obj\Debug\netcoreapp3.1\SentenciaElseEnBloque.genruntimeconfig.cache

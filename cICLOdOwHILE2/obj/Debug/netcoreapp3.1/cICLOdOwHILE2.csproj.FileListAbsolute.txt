@@ -1,0 +1,13 @@
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\cICLOdOwHILE2.exe
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\cICLOdOwHILE2.deps.json
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\cICLOdOwHILE2.runtimeconfig.json
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\cICLOdOwHILE2.runtimeconfig.dev.json
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\cICLOdOwHILE2.dll
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\cICLOdOwHILE2.pdb
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\cICLOdOwHILE2.csprojAssemblyReference.cache
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\cICLOdOwHILE2.csproj.CoreCompileInputs.cache
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\cICLOdOwHILE2.AssemblyInfoInputs.cache
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\cICLOdOwHILE2.AssemblyInfo.cs
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\cICLOdOwHILE2.dll
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\cICLOdOwHILE2.pdb
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\cICLOdOwHILE2.genruntimeconfig.cache

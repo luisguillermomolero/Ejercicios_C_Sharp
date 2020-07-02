@@ -1,0 +1,13 @@
+D:\C#\SentenciaSi2\obj\Debug\netcoreapp3.1\SentenciaSi2.csprojAssemblyReference.cache
+D:\C#\SentenciaSi2\obj\Debug\netcoreapp3.1\SentenciaSi2.csproj.CoreCompileInputs.cache
+D:\C#\SentenciaSi2\obj\Debug\netcoreapp3.1\SentenciaSi2.AssemblyInfoInputs.cache
+D:\C#\SentenciaSi2\obj\Debug\netcoreapp3.1\SentenciaSi2.AssemblyInfo.cs
+D:\C#\SentenciaSi2\bin\Debug\netcoreapp3.1\SentenciaSi2.exe
+D:\C#\SentenciaSi2\bin\Debug\netcoreapp3.1\SentenciaSi2.deps.json
+D:\C#\SentenciaSi2\bin\Debug\netcoreapp3.1\SentenciaSi2.runtimeconfig.json
+D:\C#\SentenciaSi2\bin\Debug\netcoreapp3.1\SentenciaSi2.runtimeconfig.dev.json
+D:\C#\SentenciaSi2\bin\Debug\netcoreapp3.1\SentenciaSi2.dll
+D:\C#\SentenciaSi2\bin\Debug\netcoreapp3.1\SentenciaSi2.pdb
+D:\C#\SentenciaSi2\obj\Debug\netcoreapp3.1\SentenciaSi2.dll
+D:\C#\SentenciaSi2\obj\Debug\netcoreapp3.1\SentenciaSi2.pdb
+D:\C#\SentenciaSi2\obj\Debug\netcoreapp3.1\SentenciaSi2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\Cola1\bin\Debug\netcoreapp3.1\Cola1.exe
+D:\C#\Cola1\bin\Debug\netcoreapp3.1\Cola1.deps.json
+D:\C#\Cola1\bin\Debug\netcoreapp3.1\Cola1.runtimeconfig.json
+D:\C#\Cola1\bin\Debug\netcoreapp3.1\Cola1.runtimeconfig.dev.json
+D:\C#\Cola1\bin\Debug\netcoreapp3.1\Cola1.dll
+D:\C#\Cola1\bin\Debug\netcoreapp3.1\Cola1.pdb
+D:\C#\Cola1\obj\Debug\netcoreapp3.1\Cola1.csprojAssemblyReference.cache
+D:\C#\Cola1\obj\Debug\netcoreapp3.1\Cola1.csproj.CoreCompileInputs.cache
+D:\C#\Cola1\obj\Debug\netcoreapp3.1\Cola1.AssemblyInfoInputs.cache
+D:\C#\Cola1\obj\Debug\netcoreapp3.1\Cola1.AssemblyInfo.cs
+D:\C#\Cola1\obj\Debug\netcoreapp3.1\Cola1.dll
+D:\C#\Cola1\obj\Debug\netcoreapp3.1\Cola1.pdb
+D:\C#\Cola1\obj\Debug\netcoreapp3.1\Cola1.genruntimeconfig.cache

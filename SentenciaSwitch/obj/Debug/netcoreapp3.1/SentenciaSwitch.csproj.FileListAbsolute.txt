@@ -1,0 +1,13 @@
+D:\C#\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.exe
+D:\C#\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.deps.json
+D:\C#\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.runtimeconfig.json
+D:\C#\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.runtimeconfig.dev.json
+D:\C#\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.dll
+D:\C#\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.pdb
+D:\C#\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.csprojAssemblyReference.cache
+D:\C#\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.csproj.CoreCompileInputs.cache
+D:\C#\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.AssemblyInfoInputs.cache
+D:\C#\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.AssemblyInfo.cs
+D:\C#\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.dll
+D:\C#\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.pdb
+D:\C#\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.genruntimeconfig.cache

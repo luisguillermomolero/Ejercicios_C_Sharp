@@ -1,0 +1,13 @@
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\CicloWhile2.exe
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\CicloWhile2.deps.json
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\CicloWhile2.runtimeconfig.json
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\CicloWhile2.runtimeconfig.dev.json
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\CicloWhile2.dll
+D:\C#\cICLOdOwHILE2\bin\Debug\netcoreapp3.1\CicloWhile2.pdb
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\CicloWhile2.csprojAssemblyReference.cache
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\CicloWhile2.csproj.CoreCompileInputs.cache
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\CicloWhile2.AssemblyInfoInputs.cache
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\CicloWhile2.AssemblyInfo.cs
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\CicloWhile2.dll
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\CicloWhile2.pdb
+D:\C#\cICLOdOwHILE2\obj\Debug\netcoreapp3.1\CicloWhile2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\bin\Debug\netcoreapp3.1\MiProyecto5.exe
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\bin\Debug\netcoreapp3.1\MiProyecto5.deps.json
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\bin\Debug\netcoreapp3.1\MiProyecto5.runtimeconfig.json
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\bin\Debug\netcoreapp3.1\MiProyecto5.runtimeconfig.dev.json
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\bin\Debug\netcoreapp3.1\MiProyecto5.dll
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\bin\Debug\netcoreapp3.1\MiProyecto5.pdb
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\obj\Debug\netcoreapp3.1\MiProyecto5.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\obj\Debug\netcoreapp3.1\MiProyecto5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\obj\Debug\netcoreapp3.1\MiProyecto5.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\obj\Debug\netcoreapp3.1\MiProyecto5.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\obj\Debug\netcoreapp3.1\MiProyecto5.dll
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\obj\Debug\netcoreapp3.1\MiProyecto5.pdb
+C:\Users\DELL\Source\Repos\AreaPerimetroRectangulo\MiProyecto5\obj\Debug\netcoreapp3.1\MiProyecto5.genruntimeconfig.cache

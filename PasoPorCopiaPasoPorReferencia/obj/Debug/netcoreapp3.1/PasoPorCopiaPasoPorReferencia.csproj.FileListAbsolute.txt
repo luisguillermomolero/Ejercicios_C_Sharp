@@ -1,0 +1,13 @@
+D:\C#\PasoPorCopiaPasoPorReferencia\bin\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.exe
+D:\C#\PasoPorCopiaPasoPorReferencia\bin\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.deps.json
+D:\C#\PasoPorCopiaPasoPorReferencia\bin\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.runtimeconfig.json
+D:\C#\PasoPorCopiaPasoPorReferencia\bin\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.runtimeconfig.dev.json
+D:\C#\PasoPorCopiaPasoPorReferencia\bin\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.dll
+D:\C#\PasoPorCopiaPasoPorReferencia\bin\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.pdb
+D:\C#\PasoPorCopiaPasoPorReferencia\obj\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.csprojAssemblyReference.cache
+D:\C#\PasoPorCopiaPasoPorReferencia\obj\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.csproj.CoreCompileInputs.cache
+D:\C#\PasoPorCopiaPasoPorReferencia\obj\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.AssemblyInfoInputs.cache
+D:\C#\PasoPorCopiaPasoPorReferencia\obj\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.AssemblyInfo.cs
+D:\C#\PasoPorCopiaPasoPorReferencia\obj\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.dll
+D:\C#\PasoPorCopiaPasoPorReferencia\obj\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.pdb
+D:\C#\PasoPorCopiaPasoPorReferencia\obj\Debug\netcoreapp3.1\PasoPorCopiaPasoPorReferencia.genruntimeconfig.cache

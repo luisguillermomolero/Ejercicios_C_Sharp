@@ -1,0 +1,13 @@
+D:\C#\MiProyecto2\bin\Debug\netcoreapp3.1\MiProyecto2.exe
+D:\C#\MiProyecto2\bin\Debug\netcoreapp3.1\MiProyecto2.deps.json
+D:\C#\MiProyecto2\bin\Debug\netcoreapp3.1\MiProyecto2.runtimeconfig.json
+D:\C#\MiProyecto2\bin\Debug\netcoreapp3.1\MiProyecto2.runtimeconfig.dev.json
+D:\C#\MiProyecto2\bin\Debug\netcoreapp3.1\MiProyecto2.dll
+D:\C#\MiProyecto2\bin\Debug\netcoreapp3.1\MiProyecto2.pdb
+D:\C#\MiProyecto2\obj\Debug\netcoreapp3.1\MiProyecto2.csprojAssemblyReference.cache
+D:\C#\MiProyecto2\obj\Debug\netcoreapp3.1\MiProyecto2.csproj.CoreCompileInputs.cache
+D:\C#\MiProyecto2\obj\Debug\netcoreapp3.1\MiProyecto2.AssemblyInfoInputs.cache
+D:\C#\MiProyecto2\obj\Debug\netcoreapp3.1\MiProyecto2.AssemblyInfo.cs
+D:\C#\MiProyecto2\obj\Debug\netcoreapp3.1\MiProyecto2.dll
+D:\C#\MiProyecto2\obj\Debug\netcoreapp3.1\MiProyecto2.pdb
+D:\C#\MiProyecto2\obj\Debug\netcoreapp3.1\MiProyecto2.genruntimeconfig.cache

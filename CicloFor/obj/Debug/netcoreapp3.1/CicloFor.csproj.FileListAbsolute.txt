@@ -1,0 +1,13 @@
+D:\C#\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.exe
+D:\C#\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.deps.json
+D:\C#\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.runtimeconfig.json
+D:\C#\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.runtimeconfig.dev.json
+D:\C#\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.dll
+D:\C#\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.pdb
+D:\C#\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.csprojAssemblyReference.cache
+D:\C#\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.csproj.CoreCompileInputs.cache
+D:\C#\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.AssemblyInfoInputs.cache
+D:\C#\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.AssemblyInfo.cs
+D:\C#\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.dll
+D:\C#\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.pdb
+D:\C#\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.genruntimeconfig.cache

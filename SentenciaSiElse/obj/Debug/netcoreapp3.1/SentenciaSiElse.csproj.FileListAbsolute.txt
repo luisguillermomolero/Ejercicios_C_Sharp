@@ -1,0 +1,13 @@
+D:\C#\SentenciaSiElse\bin\Debug\netcoreapp3.1\SentenciaSiElse.exe
+D:\C#\SentenciaSiElse\bin\Debug\netcoreapp3.1\SentenciaSiElse.deps.json
+D:\C#\SentenciaSiElse\bin\Debug\netcoreapp3.1\SentenciaSiElse.runtimeconfig.json
+D:\C#\SentenciaSiElse\bin\Debug\netcoreapp3.1\SentenciaSiElse.runtimeconfig.dev.json
+D:\C#\SentenciaSiElse\bin\Debug\netcoreapp3.1\SentenciaSiElse.dll
+D:\C#\SentenciaSiElse\bin\Debug\netcoreapp3.1\SentenciaSiElse.pdb
+D:\C#\SentenciaSiElse\obj\Debug\netcoreapp3.1\SentenciaSiElse.csprojAssemblyReference.cache
+D:\C#\SentenciaSiElse\obj\Debug\netcoreapp3.1\SentenciaSiElse.csproj.CoreCompileInputs.cache
+D:\C#\SentenciaSiElse\obj\Debug\netcoreapp3.1\SentenciaSiElse.AssemblyInfoInputs.cache
+D:\C#\SentenciaSiElse\obj\Debug\netcoreapp3.1\SentenciaSiElse.AssemblyInfo.cs
+D:\C#\SentenciaSiElse\obj\Debug\netcoreapp3.1\SentenciaSiElse.dll
+D:\C#\SentenciaSiElse\obj\Debug\netcoreapp3.1\SentenciaSiElse.pdb
+D:\C#\SentenciaSiElse\obj\Debug\netcoreapp3.1\SentenciaSiElse.genruntimeconfig.cache
